@@ -19,10 +19,10 @@ The page includes its fonts, artwork, QR codes, and Explorer demo, with no exter
 7. GenoSphere data (600K+ individuals)
 8. Helix Explorer platform and demo
 9. Research Access Program
-10. HelixReplicates
+10. Helix Replicates
 11. Closing
 
-The full kidney-function and GLP-1 talk titles are shown; the collider-bias title retains its concise wording.
+The full kidney-function and GLP-1 talk titles are shown; the collider-bias title retains its concise wording. Helix Replicates uses an open text layout with a Bluesky follow prompt, QR code, and logo.
 
 ## Public destinations
 
